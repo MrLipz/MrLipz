@@ -1,4 +1,4 @@
-Jay Reed 🌟
+MrLipz 🌟
 Welcome to my GitHub profile!
 
 Hi there! I’m Jay, a passionate maker, 3D printing enthusiast, and aspiring prop designer. My journey combines engineering, creativity, and hands-on craftsmanship to bring unique ideas to life.
@@ -14,7 +14,7 @@ Develop functional and decorative items for makers, cosplayers, and hobbyists.
 Explore new gear mechanisms and parametric designs to expand my engineering knowledge.
 🛠️ Tech Stack
 Modeling: Blender, Fusion 360
-3D Printing: Bambu Studio, Orcaslicer, Superslicer
+3D Printing: Bambu Studio, Cura
 Languages: Python (basic scripting)
 Electronics: Raspberry Pi for home automation and project controls
 🌱 What I’m Learning
@@ -27,4 +27,3 @@ I’m converting a section of my IKEA bookcase into a filament storage rack.
 I’m working on an ambitious garden redesign project, featuring decking, slabs, and a custom-built garden room.
 📫 Let’s Connect
 Feel free to reach out if you share an interest in 3D printing, cosplay, or design!
-
